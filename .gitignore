@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Hosuing-Price-Prediction/artifacts/best_model.joblib
+Hosuing-Price-Prediction/src/components/__init__.py
